@@ -35,7 +35,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ## &#x1f4c8; GitHub Stats
-<img src="https://cdn.dicionariopopular.com/imagens/image-132.jpg" width="340px" align="right"/>
+<img src="https://cdn.dicionariopopular.com/imagens/image-132.jpg" width="300px" height="195px" align="right"/>
 
 ![Tiago Jesus's github stats](https://github-readme-stats.vercel.app/api?username=tiagojosejesus&show_icons=true&hide_border=true&theme=react)
 
